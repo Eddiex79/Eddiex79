@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edson
 - 👀 I’m interested to become a developer.
-- 🌱 I’ve been studying HTML5, CSS3, JavaScript, Java, C.
+- 🌱 I’ve been studying HTML5, CSS3, JavaScript, Java, PHP.
 - 💞️ I hope to collaborate on this place in the future.
 - 📫 How to reach me (eddiex79@hotmail.com)(https://www.linkedin.com/in/edson-santos79/), if you wanna contact me, email me 
 and we can talk by whatsapp or Telegram.
