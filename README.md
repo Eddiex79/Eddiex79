@@ -1,11 +1,7 @@
-- 👋 Hi, I’m Edson
-- 👀 I’m interested to become a developer.
-- 🌱 I’ve been studying HTML5, CSS3, JavaScript, PHP e MySql.
-- 💞️ I hope to collaborate on this place in the future.
-- 📫 How to reach me (eddiex79@hotmail.com)(https://www.linkedin.com/in/edson-santos79/), if you wanna contact me, email me 
-and we can talk by whatsapp or Telegram.
-- 🎓 I've studied languages at Cruzeiro do Sul university, but when I
- finished my undergraduation after 3 long years, in 2019 I saw that teaching it wasn't what I wanted to do for my all life.
- Now, my goal is studying until become a software developer or web developer.
- I'm not doing just it,  I've been studying programming at D.I.O Digital Innovation one and my certifications can be encontered at (https://github.com/Eddiex79/Front-End-Cursos.git).
+👋 Hi, I’m Edson.
+👀 I’m interested in becoming a developer.
+🌱 I’ve been studying HTML5, CSS3, JavaScript, PHP, and MySQL.
+💞️ I hope to collaborate on this platform in the future.
+📫 You can reach me at eddiex79@hotmail.com or through my LinkedIn profile (https://www.linkedin.com/in/edson-santos79/). If you want to contact me, feel free to email me, and we can also talk via WhatsApp or Telegram.
+🎓 I've studied languages at Cruzeiro do Sul University, but when I finished my undergraduate degree after three long years, in 2019, I realized that teaching wasn't what I wanted to do for my entire life. Now, my goal is to study until I become a software developer or web developer. I'm not only doing that; I've also been studying programming at Udemy, Alura, D.I.O Digital Innovation, and my certifications can be found at (https://github.com/Eddiex79/Front-End-Cursos.git).
 
