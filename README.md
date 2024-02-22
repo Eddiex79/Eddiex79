@@ -1,4 +1,4 @@
-👋 Hi, I’m Edson.
+👋 Hi, I’m Edson...
 👀 I’m interested in becoming a developer.
 🌱 I’ve been studying HTML5, CSS3, JavaScript, PHP, and MySQL.
 💞️ I hope to collaborate on this platform in the future.
